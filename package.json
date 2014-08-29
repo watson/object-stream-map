@@ -1,6 +1,6 @@
 {
   "name": "object-stream-map",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Perform a map on a stream of objects",
   "main": "index.js",
   "dependencies": {
