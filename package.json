@@ -1,0 +1,35 @@
+{
+  "name": "object-stream-map",
+  "version": "0.0.0",
+  "description": "Perform a map on a stream of objects",
+  "main": "index.js",
+  "dependencies": {
+    "through2": "^0.6.1"
+  },
+  "devDependencies": {
+    "tape": "^2.14.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/watson/object-stream-map.git"
+  },
+  "keywords": [
+    "object",
+    "stream",
+    "streams",
+    "streams2",
+    "map",
+    "array",
+    "property",
+    "attribute"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/object-stream-map/issues"
+  },
+  "homepage": "https://github.com/watson/object-stream-map"
+}
